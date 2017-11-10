@@ -7,5 +7,6 @@ Orange light: Minor Delays
 Red light: Severe Delays
 Blinking red light: Suspended
 
+---------------------------------------------------
 
-(I'll post pictures once it's done)
+This project is in a very early stage. I'm coding for the console first, and then I'll adapt the code to the raspberry pi.
