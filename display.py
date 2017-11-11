@@ -11,6 +11,8 @@ while True: # Infinite loop to constantly show the data (refreshed every 30 seco
 			print(lines + ": Severe Delays")
 		elif all_lines[lines] == 9:
 			print(lines + ": Minor Delays")
+		elif all_lines[lines] == 5:
+			print(lines + ": Part Closure")
 		else:
 			print("Unknown Status")
 	time.sleep(30) # Data will refresh every 30 seconds
