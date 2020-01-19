@@ -12,3 +12,4 @@ Blinking red light: Suspended
 
 ---------------------------------------------------
 
+I'm coding for the console first, and then I'll adapt the code to the raspberry pi.
